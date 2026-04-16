@@ -55,7 +55,7 @@ docker run zego-webcrawler "https://example.com"
 |------|-------------|---------|
 | No flag | Starting URL (required, must be first argument) | - |
 | `--max-concurrent`, `-mc` | Maximum number of concurrent tasks (1-10) | 5 |
-| `--no-respect-robots` | Disables robots.txt compliance | true |
+| `--no-respect-robots` | Disables robots.txt compliance | false |
 
 ### Example runs
 
