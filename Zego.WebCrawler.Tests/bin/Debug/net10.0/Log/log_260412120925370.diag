@@ -1,0 +1,28 @@
+2026-04-12T12:09:25.3734960+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-04-12T12:09:25.3816480+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-04-12T12:09:25.3823990+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-04-12T12:09:25.3824010+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 12:09:25.358
+2026-04-12T12:09:25.3826660+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 17091
+2026-04-12T12:09:25.3826840+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: osx-arm64 - .NET 10.0.0
+2026-04-12T12:09:25.3826940+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: /usr/local/share/dotnet/shared/Microsoft.NETCore.App/10.0.0/System.Private.CoreLib.dll
+2026-04-12T12:09:25.3827000+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-04-12T12:09:25.3827300+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: /Users/aidasariabdulmahmood/RiderProjects/WebCrawler/Zego.WebCrawler.Tests/bin/Debug/net10.0/Zego.WebCrawler.Tests.dll
+2026-04-12T12:09:25.3827860+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory /Users/aidasariabdulmahmood/RiderProjects/WebCrawler/Zego.WebCrawler.Tests/bin/Debug/net10.0/Log --client-port 64790'
+2026-04-12T12:09:25.3859170+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-04-12T12:09:25.3937070+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-04-12T12:09:25.4000460+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-04-12T12:09:25.4948920+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-04-12T12:09:25.4993550+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 10.0.0)
+2026-04-12T12:09:25.5191790+00:00 xUnit.net INFORMATION   Discovering: Zego.WebCrawler.Tests
+2026-04-12T12:09:25.5494460+00:00 xUnit.net INFORMATION   Discovered:  Zego.WebCrawler.Tests
+2026-04-12T12:09:25.5668910+00:00 xUnit.net INFORMATION   Starting:    Zego.WebCrawler.Tests
+2026-04-12T12:09:25.6785900+00:00 xUnit.net ERROR     Zego.WebCrawler.Tests.Domains.CrawlerEngineTests.CrawlAsync_SinglePage_ReturnsLinks [FAIL]
+2026-04-12T12:09:25.6787800+00:00 xUnit.net INFORMATION       Assert.Equal() Failure: Values differ
+2026-04-12T12:09:25.6787840+00:00 xUnit.net INFORMATION       Expected: 2
+2026-04-12T12:09:25.6787840+00:00 xUnit.net INFORMATION       Actual:   1
+2026-04-12T12:09:25.6789280+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-04-12T12:09:25.6792590+00:00 xUnit.net INFORMATION         /Users/aidasariabdulmahmood/RiderProjects/WebCrawler/Zego.WebCrawler.Tests/Domains/CrawlerEngineTests.cs(88,0): at Zego.WebCrawler.Tests.Domains.CrawlerEngineTests.CrawlAsync_SinglePage_ReturnsLinks()
+2026-04-12T12:09:25.6792650+00:00 xUnit.net INFORMATION         --- End of stack trace from previous location ---
+2026-04-12T12:09:25.6876000+00:00 xUnit.net INFORMATION   Finished:    Zego.WebCrawler.Tests (ID = '4641c530349a66386d54ed0a10e983ea257b7bd011019827d84063e9ab74eceb')
+2026-04-12T12:09:25.6894600+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-04-12T12:09:25.6923310+00:00 xUnit.net INFORMATION    Zego.WebCrawler.Tests  Total: 1, Errors: 0, Failed: 1, Skipped: 0, Not Run: 0, Time: 0.130s

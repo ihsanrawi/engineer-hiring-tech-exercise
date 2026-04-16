@@ -1,0 +1,26 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AIHtmlParser_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F9418adf87ffc41c1a44d1953290e5eceeba00_003F85_003Fff1ac194_003FIHtmlParser_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AUriScheme_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003F37eb1758f1a3239e513bcbec6579decae2feb183efda59c98db823cf41efc7_003FUriScheme_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AUri_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fc8762f1209f3f91d97abec735b48ce6e705bbe9d5b2747499daa82ea419ce_003FUri_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=23920b1a_002D23c3_002D4a05_002Dbbfd_002D423d12ffca0e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CrawlAsync_SinglePage_ReturnsLinks #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::5952FF2E-B286-4FF0-AD88-D968A11496F0::net10.0::Zego.WebCrawler.Tests.Domains.CrawlerEngineTests.CrawlAsync_SinglePage_ReturnsLinks&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5952FF2E-B286-4FF0-AD88-D968A11496F0::net10.0::Zego.WebCrawler.Tests.Domains.CrawlerEngineTests.CrawlAsync_DifferentDomain_Skips&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8ba8c2ab_002Da64a_002D49f7_002Db253_002Df52cf860887c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Extract_ReturnsEmptyListWhenNoAnchorTags" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::5952FF2E-B286-4FF0-AD88-D968A11496F0::net10.0::Zego.WebCrawler.Tests.Adapters.HtmlLinkExtractorTests.Extract_ReturnsEmptyListWhenNoAnchorTags&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5952FF2E-B286-4FF0-AD88-D968A11496F0::net10.0::Zego.WebCrawler.Tests.Adapters.HtmlLinkExtractorTests.Extract_ExcludesAnchorsWithoutHref&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5952FF2E-B286-4FF0-AD88-D968A11496F0::net10.0::Zego.WebCrawler.Tests.Adapters.HtmlLinkExtractorTests.Extract_HandlesEmptyHref&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5952FF2E-B286-4FF0-AD88-D968A11496F0::net10.0::Zego.WebCrawler.Tests.Adapters.HtmlLinkExtractorTests.Extract_HandlesAnchorsWithHref&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5952FF2E-B286-4FF0-AD88-D968A11496F0::net10.0::Zego.WebCrawler.Tests.Adapters.HtmlLinkExtractorTests.Extract_ReturnsNonHttpHrefs&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5952FF2E-B286-4FF0-AD88-D968A11496F0::net10.0::Zego.WebCrawler.Tests.Adapters.HtmlLinkExtractorTests.Extract_ReturnsDuplicateHrefs&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5952FF2E-B286-4FF0-AD88-D968A11496F0::net10.0::Zego.WebCrawler.Tests.Domains.UrlNormalizerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5952FF2E-B286-4FF0-AD88-D968A11496F0::net10.0::Zego.WebCrawler.Tests.Domains.CrawlerEngineTests.CrawlAsync_SinglePage_ReturnsLinks&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5952FF2E-B286-4FF0-AD88-D968A11496F0::net10.0::Zego.WebCrawler.Tests.Domains.CrawlerEngineTests.CrawlAsync_SchemeValidation_Works&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f149e903_002D0f1e_002D41c9_002D8fe6_002D9753f939d2d5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CrawlAsync_SinglePage_ReturnsLinks" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

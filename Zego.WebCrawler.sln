@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zego.WebCrawler", "Zego.WebCrawler\Zego.WebCrawler.csproj", "{AD56CA88-A2C0-4595-B017-0AF6987BBDCF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2C278640-5BD9-4A52-9F3E-25366EC34CD9}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+		README.md = README.md
+		CLAUDE.md = CLAUDE.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zego.WebCrawler.Tests", "Zego.WebCrawler.Tests\Zego.WebCrawler.Tests.csproj", "{5952FF2E-B286-4FF0-AD88-D968A11496F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD56CA88-A2C0-4595-B017-0AF6987BBDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD56CA88-A2C0-4595-B017-0AF6987BBDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD56CA88-A2C0-4595-B017-0AF6987BBDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD56CA88-A2C0-4595-B017-0AF6987BBDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5952FF2E-B286-4FF0-AD88-D968A11496F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5952FF2E-B286-4FF0-AD88-D968A11496F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5952FF2E-B286-4FF0-AD88-D968A11496F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5952FF2E-B286-4FF0-AD88-D968A11496F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

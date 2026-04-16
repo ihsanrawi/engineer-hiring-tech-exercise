@@ -1,0 +1,21 @@
+2026-04-12T12:20:48.6384150+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-04-12T12:20:48.6460390+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-04-12T12:20:48.6467410+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-04-12T12:20:48.6467420+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 12:20:48.624
+2026-04-12T12:20:48.6470040+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 17284
+2026-04-12T12:20:48.6470180+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: osx-arm64 - .NET 10.0.0
+2026-04-12T12:20:48.6470260+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: /usr/local/share/dotnet/shared/Microsoft.NETCore.App/10.0.0/System.Private.CoreLib.dll
+2026-04-12T12:20:48.6470320+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-04-12T12:20:48.6470620+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: /Users/aidasariabdulmahmood/RiderProjects/WebCrawler/Zego.WebCrawler.Tests/bin/Debug/net10.0/Zego.WebCrawler.Tests.dll
+2026-04-12T12:20:48.6471160+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory /Users/aidasariabdulmahmood/RiderProjects/WebCrawler/Zego.WebCrawler.Tests/bin/Debug/net10.0/Log --client-port 64907'
+2026-04-12T12:20:48.6501250+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-04-12T12:20:48.6577870+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-04-12T12:20:48.6640900+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-04-12T12:20:48.7584850+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-04-12T12:20:48.7627420+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 10.0.0)
+2026-04-12T12:20:48.7816590+00:00 xUnit.net INFORMATION   Discovering: Zego.WebCrawler.Tests
+2026-04-12T12:20:48.8099850+00:00 xUnit.net INFORMATION   Discovered:  Zego.WebCrawler.Tests
+2026-04-12T12:20:48.8268530+00:00 xUnit.net INFORMATION   Starting:    Zego.WebCrawler.Tests
+2026-04-12T12:20:48.9287450+00:00 xUnit.net INFORMATION   Finished:    Zego.WebCrawler.Tests (ID = '4641c530349a66386d54ed0a10e983ea257b7bd011019827d84063e9ab74eceb')
+2026-04-12T12:20:48.9307030+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-04-12T12:20:48.9334320+00:00 xUnit.net INFORMATION    Zego.WebCrawler.Tests  Total: 3, Errors: 0, Failed: 0, Skipped: 0, Not Run: 0, Time: 0.111s

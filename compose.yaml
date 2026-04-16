@@ -1,0 +1,7 @@
+﻿services:
+  zego.webcrawler:
+    image: zego.webcrawler
+    build:
+      context: .
+      dockerfile: Zego.WebCrawler/Dockerfile
+
